@@ -1,0 +1,9 @@
+D:\!Podatoci\Presentations\MS Dubai\UAEDevelopersMeetupGroup\ASP.NET Core\aspnetcore-workshop-master\App\AttendeeList\bin\Debug\netcoreapp1.0\AttendeeList.deps.json
+D:\!Podatoci\Presentations\MS Dubai\UAEDevelopersMeetupGroup\ASP.NET Core\aspnetcore-workshop-master\App\AttendeeList\bin\Debug\netcoreapp1.0\AttendeeList.runtimeconfig.json
+D:\!Podatoci\Presentations\MS Dubai\UAEDevelopersMeetupGroup\ASP.NET Core\aspnetcore-workshop-master\App\AttendeeList\bin\Debug\netcoreapp1.0\AttendeeList.runtimeconfig.dev.json
+D:\!Podatoci\Presentations\MS Dubai\UAEDevelopersMeetupGroup\ASP.NET Core\aspnetcore-workshop-master\App\AttendeeList\bin\Debug\netcoreapp1.0\AttendeeList.dll
+D:\!Podatoci\Presentations\MS Dubai\UAEDevelopersMeetupGroup\ASP.NET Core\aspnetcore-workshop-master\App\AttendeeList\bin\Debug\netcoreapp1.0\AttendeeList.pdb
+D:\!Podatoci\Presentations\MS Dubai\UAEDevelopersMeetupGroup\ASP.NET Core\aspnetcore-workshop-master\App\AttendeeList\obj\Debug\netcoreapp1.0\AttendeeList.AssemblyInfo.cs
+D:\!Podatoci\Presentations\MS Dubai\UAEDevelopersMeetupGroup\ASP.NET Core\aspnetcore-workshop-master\App\AttendeeList\obj\Debug\netcoreapp1.0\AttendeeList.dll
+D:\!Podatoci\Presentations\MS Dubai\UAEDevelopersMeetupGroup\ASP.NET Core\aspnetcore-workshop-master\App\AttendeeList\obj\Debug\netcoreapp1.0\AttendeeList.pdb
+D:\!Podatoci\Presentations\MS Dubai\UAEDevelopersMeetupGroup\ASP.NET Core\aspnetcore-workshop-master\App\AttendeeList\obj\Debug\netcoreapp1.0\AttendeeList.csprojResolveAssemblyReference.cache
